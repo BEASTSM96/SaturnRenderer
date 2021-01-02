@@ -1,0 +1,115 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#VS 2015 STUFF
+Sparky.VC
+Sparky.VC.VC.opendb
+Sparky.VC.db
+*.VC
+*.VC.db
+*.VC.VC.opendb
+
+#vs stuff cuz git yeah
+/.vs
+*.sln
+
+*.ipch
+
+#bin stuff
+Bin
+Bin-int
+
+# Binaries
+**/bin/
+!vendor/bin/premake/
+bin-int/
+
+# log files
+*.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+
+#stuff for dev ver
+**.sproject
+**.mp3
+**.ogg
+**.sasset
+test.JSON
+[dD]esktop.ini
+**.ses
+
+#Sanbox/assets
+**/assets/tex/
+**/assets/tex/
+
+Sandbox/assets/tex
+Sandbox/assets/tex
+
+Sandbox/assets/tex/
+Sandbox/assets/tex/
+
+**/assets/tex
+**/assets/tex
+
+Spark/**
+Spark/
+Spark
+Spark
+Sandbox/assets/tex
+**/Sandbox/*.json
+Sandbox/**.json
+Sandbox/*.json
+Titan/SaturnProfile-Runtime.json
+Titan/SaturnProfile-Shutdown.json
+Titan/SaturnProfile-Startup.json
+assets/**
+Titan/*.json
+Titan/assets/meshes/Walther_01
+Titan/assets/meshes/KrissVector
+Titan/dna.txt
+Saturn/vendor/imgui/examples/example_allegro5
+Saturn/vendor/imgui/examples/example_apple_metal
+Saturn/vendor/imgui/examples/example_apple_opengl2
+!Saturn/vender/assimp/bin/
+!vender/bin/premake
+Titan/assets/testtemp.sc
+Saturn/vendor/**/Makefile
+Saturn/Makefile
+Makefile
+Titan/rp3d_log_Test.html
