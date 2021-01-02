@@ -114,5 +114,5 @@ Saturn/Makefile
 Makefile
 Titan/rp3d_log_Test.html
 
-!SaturnRenderer/vendor/Vulkan/1.2.148.1/[Ll]ib
+!SaturnRenderer/vendor/Vulkan/1.2.148.1/[Ll]ib/
 
